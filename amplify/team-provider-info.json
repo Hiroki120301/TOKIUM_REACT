@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sampletokiumapp-dev-83428-authRole",
+      "UnauthRoleArn": "arn:aws:iam::611361928709:role/amplify-sampletokiumapp-dev-83428-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::611361928709:role/amplify-sampletokiumapp-dev-83428-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-sampletokiumapp-dev-83428-deployment",
+      "UnauthRoleName": "amplify-sampletokiumapp-dev-83428-unauthRole",
+      "StackName": "amplify-sampletokiumapp-dev-83428",
+      "StackId": "arn:aws:cloudformation:us-east-1:611361928709:stack/amplify-sampletokiumapp-dev-83428/d591c3e0-1d4a-11ef-a2c9-0affc246050b",
+      "AmplifyAppId": "d4i7rcmcznm5c"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d4i7rcmcznm5c",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
